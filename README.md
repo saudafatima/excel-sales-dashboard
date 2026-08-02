@@ -1,11 +1,11 @@
 # 📊 Sales Performance Dashboard (Excel)
 
-## 📌 Project Overview
+##  Project Overview
 This project is an interactive **Sales Performance Dashboard** built using **Microsoft Excel**. It helps analyze sales data through Pivot Tables, Pivot Charts, KPI cards, and Slicers, allowing users to explore sales trends and business performance.
 
 ---
 
-## 🚀 Features
+##  Features
 - Interactive Dashboard
 - Pivot Tables
 - Pivot Charts
@@ -18,7 +18,7 @@ This project is an interactive **Sales Performance Dashboard** built using **Mic
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
@@ -27,7 +27,7 @@ This project is an interactive **Sales Performance Dashboard** built using **Mic
 
 ---
 
-## 📁 Project Files
+##  Project Files
 - `salesdashboard.xlsx` – Excel workbook containing:
   - Dataset
   - Pivot Tables
@@ -36,16 +36,13 @@ This project is an interactive **Sales Performance Dashboard** built using **Mic
 ---
 
 ## 📸 Dashboard Preview
+<img width="963" height="562" alt="image" src="https://github.com/user-attachments/assets/5bac5158-b672-4c18-a3da-ded8b8614e8a" />
 
-Upload a screenshot of your dashboard and replace the line below with the image.
 
-Example:
-
-![Dashboard](dashboard.png)
 
 ---
 
-## 📈 Skills Demonstrated
+##  Skills Demonstrated
 - Data Cleaning
 - Data Analysis
 - Dashboard Design
@@ -56,7 +53,7 @@ Example:
 ---
 
 ## 👩‍💻 Author
-**Souda Byahatti**
+**Souda banu Byahatti**
 
 Aspiring Data Analyst
 
