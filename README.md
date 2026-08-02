@@ -36,6 +36,7 @@ This project is an interactive **Sales Performance Dashboard** built using **Mic
 ---
 
 ## 📸 Dashboard Preview
+
 <img width="963" height="562" alt="image" src="https://github.com/user-attachments/assets/5bac5158-b672-4c18-a3da-ded8b8614e8a" />
 
 
